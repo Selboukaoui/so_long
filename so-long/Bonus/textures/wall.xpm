@@ -1,0 +1,34 @@
+/* XPM */
+static char *Wall_total[] = {
+/* columns rows colors chars-per-pixel */
+"25 25 3 1 ",
+"  c black",
+". c #0B0082",
+"X c #2B00FF",
+/* pixels */
+".........................",
+".XXXXXXXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXXXXXXX.",
+".XX...................XX.",
+".XX.                 .XX.",
+".XX.                 .XX.",
+".XX.                 .XX.",
+".XX.                 .XX.",
+".XX.                 .XX.",
+".XX.                 .XX.",
+".XX.                 .XX.",
+".XX.                 .XX.",
+".XX.                 .XX.",
+".XX.                 .XX.",
+".XX.                 .XX.",
+".XX.                 .XX.",
+".XX.                 .XX.",
+".XX.                 .XX.",
+".XX.                 .XX.",
+".XX.                 .XX.",
+".XX.                 .XX.",
+".XX...................XX.",
+".XXXXXXXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXXXXXXX.",
+"........................."
+};
