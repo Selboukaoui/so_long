@@ -38,8 +38,6 @@ int	free_mlx(t_game *data, int mode)
 		mlx_destroy_image(data->mlx_connect, data->txt.exit);
 	else if (data->txt.floor)
 		mlx_destroy_image(data->mlx_connect, data->txt.floor);
-	else if (data->txt.next)
-		mlx_destroy_image(data->mlx_connect, data->txt.next);
 	else if (data->txt.player)
 		mlx_destroy_image(data->mlx_connect, data->txt.player);
 	else if (data->txt.wall)
